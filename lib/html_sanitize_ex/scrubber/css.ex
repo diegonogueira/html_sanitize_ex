@@ -175,6 +175,7 @@ defmodule HtmlSanitizeEx.Scrubber.CSS do
     "dashed",
     "dotted",
     "fuchsia",
+    "justify",
     "gray",
     "green",
     "!important",
